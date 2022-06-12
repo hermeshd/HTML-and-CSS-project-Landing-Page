@@ -8,4 +8,8 @@ Start time:
 
 End Time:
 
-TBD
+12/06/2022 - 18:45
+
+Elapsed time: 2:15h
+
+Not bad I think ;)
